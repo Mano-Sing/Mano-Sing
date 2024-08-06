@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mano-Sing
+- 💻 Future computer engineer
+- 🚀 Currently learning C
